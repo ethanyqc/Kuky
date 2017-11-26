@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B32DD316-B2D0-F6DF-D14C-B5CE9CC90690}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/_Resourses/Voxel Robots/For Unity/Script/Movement/Turret/PlayerTurret.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Resourses/Voxel Robots/For Unity/Script/Component/Robot/Bullet.cs" Line="107" Column="13" />
+      <File FileName="Assets/_Scripts/LivingEntity.cs" Line="16" Column="6" />
+      <File FileName="Assets/_Scripts/Player.cs" Line="13" Column="6" />
+      <File FileName="Assets/_Scripts/IDamage.cs" Line="7" Column="32" />
+      <File FileName="Assets/_Scripts/Spawner.cs" Line="42" Column="41" />
+      <File FileName="Assets/_Scripts/Enemy.cs" Line="40" Column="21" />
+      <File FileName="Assets/_Resourses/Voxel Robots/For Unity/Script/Component/Robot/Weapon.cs" Line="94" Column="30" />
+      <File FileName="Assets/_Scripts/MapGenerator.cs" Line="21" Column="40" />
+      <File FileName="Assets/_Editor/MapEditor.cs" Line="13" Column="27" />
+      <File FileName="Assets/_Resourses/Voxel Robots/For Unity/Script/Movement/Character/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/CameraFollow.cs" Line="20" Column="105" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ku_3308ky PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
